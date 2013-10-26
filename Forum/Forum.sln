@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.Model", "Forum.Model\Forum.Model.csproj", "{A617F1D4-61C0-4B25-85EC-1DEE80EDCC6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datalayer", "Datalayer\Datalayer.csproj", "{E9AC57C5-0D5D-489D-AF9D-E046A7B0DA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.WebAPI", "Forum.WebAPI\Forum.WebAPI.csproj", "{D5A084F5-E392-45EA-8975-42C508E8B9E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A617F1D4-61C0-4B25-85EC-1DEE80EDCC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A617F1D4-61C0-4B25-85EC-1DEE80EDCC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A617F1D4-61C0-4B25-85EC-1DEE80EDCC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A617F1D4-61C0-4B25-85EC-1DEE80EDCC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AC57C5-0D5D-489D-AF9D-E046A7B0DA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AC57C5-0D5D-489D-AF9D-E046A7B0DA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AC57C5-0D5D-489D-AF9D-E046A7B0DA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AC57C5-0D5D-489D-AF9D-E046A7B0DA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A084F5-E392-45EA-8975-42C508E8B9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A084F5-E392-45EA-8975-42C508E8B9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A084F5-E392-45EA-8975-42C508E8B9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A084F5-E392-45EA-8975-42C508E8B9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
